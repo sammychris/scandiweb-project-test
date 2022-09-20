@@ -1,6 +1,6 @@
 import { PureComponent } from "react";
 import Line from "../Line";
-import Line from "../StepDetail";
+import StepDetail from "../StepDetail";
 import styled, { css } from "styled-components";
 
 export class ProgressBar extends PureComponent {
